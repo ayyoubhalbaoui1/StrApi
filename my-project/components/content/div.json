@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_h_divs",
+  "info": {
+    "name": "div",
+    "icon": "allergies"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "string"
+    }
+  }
+}
